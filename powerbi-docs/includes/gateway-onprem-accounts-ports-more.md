@@ -34,6 +34,7 @@ Here is a listing of the fully qualified domain names used by the gateway.
 | *.frontend.clouddatahub.net | 443 | Deprecated - no longer required. Will be removed from documentation in the future. |  |
 | *.core.windows.net | 443 | Used by dataflows in Power BI to write data to Azure Data Lake. |  |
 | login.microsoftonline.com | 443 | Used for authenticating the data gateway app with Azure Active Directory / OAuth2. |  |
+| aadcdn.msftauth.net | 443 | Used for authenticating the data gateway app with Azure Active Directory / OAuth2. |  |
 | *.msftncsi.com | 443 | Used to test internet connectivity and whether the gateway is unreachable by the Power BI service. |  |
 | *.microsoftonline-p.com | 443 | Used for authenticating the data gateway app with Azure Active Directory / OAuth2. |  |
 | | |
