@@ -24,7 +24,7 @@ Power BI Report Server and the Power BI service have many similarities and some 
 | Bookmarks | No | Yes| Bookmarks in the [Power BI service](../consumer/end-user-bookmarks.md) |
 | Deployment | On-premises or hosted cloud | Cloud | Power BI Report Server can be deployed in Azure VMs (hosted cloud) if licensed through Power BI Premium or SQL Server Enterprise with Software Assurance|
 | Data sources | Cloud and/or on-premises | Cloud and/or on-premises |  |
-| License | Power BI Premium or SQL Server EE with Software Assurance (SA) | Power BI Pro and/or Power BI Premium | |  
+| License | Power BI Premium or SQL Server EE with Software Assurance (SA) for old versions or for SQL Server 2025 is included with all paid editions except Express | Power BI Pro and/or Power BI Premium | |  
 | Lifecycle | Modern lifecycle policy | Fully managed service |  |
 | Release cycle | Three times a year (January, May, September) | Once a month | Latest features and fixes come to the Power BI service first. A rollup of features from Power BI Desktop releases for the service comes to Power BI Report Server in each release; most other features are only meant for the Power BI service. |
 | Composite models | No | Yes | |
